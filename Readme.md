@@ -1,0 +1,1 @@
+This Project is Intended to Practice Multi-module architecture in Micorservices.
